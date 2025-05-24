@@ -96,13 +96,7 @@ Following are the major dev-dependencies of the project:
 - You should have a MongoDB database.
 - You should have a code editor (preferred: VS Code)
 
-## Installation and Setup
-
-1. Install all the dependencies
-
-   ```sh
-   npm run install-all
-   ```
+1. install
 
 2. Create a file named ".env" inside the backend folder. Add data from .env.example file and substitute your credentials there.
 
